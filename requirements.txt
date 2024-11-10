@@ -1,0 +1,2 @@
+pip install Pillow==8.4.0
+pip install rembg==2.0.59
