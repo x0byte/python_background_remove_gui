@@ -1,4 +1,4 @@
-PictureMaster App
+# PictureMaster App
 
 PictureMaster is a simple yet powerful Python GUI application designed to assist with basic image processing tasks. With this app, users can:
 
